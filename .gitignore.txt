@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 README.md
 
 Здесь был Слава!
+=======
+README.md
+>>>>>>> 5d341ae0bfe5abe84605ab301e90e5db9cd168a6
